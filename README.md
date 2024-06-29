@@ -21,5 +21,5 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/JeevanThomas798/digital-watch.git
-   cd digital-watch
+   git clone https://github.com/JeevanThomas798/DigitalClock.git
+   cd DigitalClock
