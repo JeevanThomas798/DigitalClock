@@ -23,3 +23,12 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```sh
    git clone https://github.com/JeevanThomas798/DigitalClock.git
    cd DigitalClock
+
+2.**Compile the code:**
+
+   javac DigitalWatch.java
+
+3.**Run the Application:**
+
+   java DigitalWatch
+
